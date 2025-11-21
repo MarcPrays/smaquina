@@ -67,16 +67,18 @@ pip install -r requirements.txt
 
 #### a) Crear la base de datos en MySQL
 
-Abre MySQL desde tu terminal o cliente favorito:
+🔧 Solución 3: Usar MySQL Workbench (GUI)
+Si tienes MySQL Workbench instalado:
 
-```bash
-mysql -u root -p
-```
+- Abre MySQL Workbench
+- Conecta a tu servidor local
+
+
 
 Ejecuta los siguientes comandos SQL:
 
 ```sql
-CREATE DATABASE bdmaquinaria CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE bdmaquinaria;
 USE bdmaquinaria;
 ```
 
