@@ -49,7 +49,7 @@ Antes de comenzar, asegúrate de tener instalado:
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/smaquina.git
+git clone https://github.com/MarcPrays/smaquina.git
 cd smaquina
 ```
 
