@@ -89,7 +89,7 @@ Abre el archivo `bd/database.py` y modifica las credenciales según tu configura
 ```python
 # Variables de conexion
 MYSQL_USER = "root"              # Tu usuario de MySQL
-MYSQL_PASSWORD = "123123"         # Tu contraseña de MySQL
+MYSQL_PASSWORD = ""         # Tu contraseña de MySQL (Si es que tienes, no agregues nada si no tienes contra)
 MYSQL_HOST = "localhost"          # Host de MySQL
 MYSQL_DB = "bdmaquinaria"         # Nombre de la base de datos
 ```
