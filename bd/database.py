@@ -6,7 +6,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 # Variables de conexion
 
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "123123"
+MYSQL_PASSWORD = ""
 MYSQL_HOST = "localhost"
 MYSQL_DB = "bdmaquinaria"
 

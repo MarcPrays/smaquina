@@ -111,7 +111,7 @@ Base.metadata.create_all(bind=engine)
 ### Opción 1: Ejecución Normal
 
 ```bash
-fastapi dev main.py
+uvicorn main:app --reload
 ```
 
 
